@@ -10,7 +10,7 @@ Inspiration : http://www.alsacreations.com/tuto/lire/1533-un-e-mail-en-html-resp
 
 ## Détail de la Structure
 
-J'ai volontairement utilisé les balises "<font>" à la place des balises "<span>", pour un souci de compatibilité avec les éditeurs d'E-mailling, qui ne prennent pas en compte, les balises "H1", "DIV", "SPAN". 
+J'ai volontairement utilisé les balises "font" à la place des balises "span", pour un souci de compatibilité avec les éditeurs d'E-mailling, qui ne prennent pas en compte, les balises "H1", "DIV", "SPAN". 
 
 Pour palier le problème des "H1", "H2" ectr.... j'ai utilisé la balise "<p>".
 
