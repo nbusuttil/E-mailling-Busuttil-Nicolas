@@ -16,3 +16,8 @@ J'ai volontairement utilisé les balises `<font>` à la place des balises `<span
 Pour palier le problème des `<h1>`, `<h2>` ectr.... j'ai utilisé la balise `<p>`.
 
 Pour éviter tout bug d'affichage, je conseille de mettre le style _inline_, directement sur les tabs et non le contenu.
+
+
+## Rendu
+
+http://busuttil.github.io/E-mailling-Busuttil-Nicolas/
